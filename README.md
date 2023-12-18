@@ -17,7 +17,7 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-800080?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-008DBB?style=for-the-badge&logo=dataiku&logoColor=white)
 
-## Connect with Me
+## 🔗 Connect with Me
 LinkedIn: https://www.linkedin.com/in/sebastian-hirsch-p/
   
 Let's connect and explore exciting opportunities together!
