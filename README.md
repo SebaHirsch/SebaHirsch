@@ -5,8 +5,8 @@
 Hola! 👋 I'm Sebastian Hirsch, a passionate Product Manager based in Madrid. I thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4CAF50?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Technologies
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white) 
