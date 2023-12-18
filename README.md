@@ -12,7 +12,6 @@ Hola! 👋 I'm Sebastian Hirsch, a passionate Product Manager based in Madrid. I
 ## Connect with Me
 
 - GitHub: [Your GitHub Profile URL]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-
+- LinkedIn: https://www.linkedin.com/in/sebastian-hirsch-p/
+  
 Let's connect and explore exciting opportunities together!
