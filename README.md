@@ -1,16 +1,18 @@
-### Hi there 👋
+# Sebastian Hirsch P.
 
-<!--
-**SebaHirsch/SebaHirsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hola! 👋 I'm Sebastian Hirsch, a passionate Product Manager based in Madrid. I thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Python, SQL
+- **Technologies:** Spark, Dataiku, Tableau, PowerBi
+
+## Connect with Me
+
+- GitHub: [Your GitHub Profile URL]
+- LinkedIn: [Your LinkedIn Profile URL]
+- Twitter: [Your Twitter Profile URL]
+
+Let's connect and explore exciting opportunities together!
