@@ -18,6 +18,7 @@
 ![Dataiku](https://img.shields.io/badge/Dataiku-008DBB?style=for-the-badge&logo=dataiku&logoColor=white)
 
 ## 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/sebastian-hirsch-p/
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/sebastian-hirsch-p/)
+
   
 Let's connect and explore exciting opportunities together!
