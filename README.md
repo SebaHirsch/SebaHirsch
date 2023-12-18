@@ -3,6 +3,7 @@
 ## About Me
 
 Hello! 👋 I'm Sebastian Hirsch, a passionate Product Manager based in Madrid. 
+
 I thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
 
 ### Programming Languages
