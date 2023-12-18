@@ -18,8 +18,10 @@
 ![Dataiku](https://img.shields.io/badge/Dataiku-008DBB?style=for-the-badge&logo=dataiku&logoColor=white)
 
 ## 🔗 Connect with Me
-<div style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/sebastian-hirsch-p/" style="padding: 10px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px;">LinkedIn Profile</a>
+<div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
+  <div style="flex: 1; padding: 10px; background-color: #0077B5; border-radius: 5px;">
+    <a href="https://www.linkedin.com/in/sebastian-hirsch-p/" style="color: white; text-decoration: none;">LinkedIn Profile</a>
+  </div>
 </div>
   
 Let's connect and explore exciting opportunities together!
