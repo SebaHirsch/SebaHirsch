@@ -11,7 +11,7 @@ Hola! 👋 I'm Sebastian Hirsch, a passionate Product Manager based in Madrid. I
 ### Technologies
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-800080?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-008DBB?style=for-the-badge&logo=dataiku&logoColor=white) 
 
 ## Connect with Me
