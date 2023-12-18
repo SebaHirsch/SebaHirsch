@@ -2,8 +2,9 @@
 
 ## 🚀 About Me
 
-- Passionate Product Manager based in Madrid. 
-- Thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
+- Passionate about sports and team-building dynamics
+- Keen on entrepreneurship and product management
+- Bringing innovative ideas to life and optimizing processes for better efficiency
 
 ## 📊 Skills
 
