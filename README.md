@@ -1,10 +1,10 @@
-# Sebastian Hirsch P.
+# Hello there, I'm Sebastian 👋 
 
 ## About Me
 
-Hello! 👋 I'm Sebastian Hirsch, a passionate Product Manager based in Madrid. 
+📊 Passionate Product Manager based in Madrid. 
 
-I thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
+🚀 Thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
 
 ## Skills
 
@@ -19,8 +19,6 @@ I thrive on bringing innovative ideas to life and optimizing processes for bette
 ![Dataiku](https://img.shields.io/badge/Dataiku-008DBB?style=for-the-badge&logo=dataiku&logoColor=white) 
 
 ## Connect with Me
-
-- GitHub: https://github.com/SebaHirsch
 - LinkedIn: https://www.linkedin.com/in/sebastian-hirsch-p/
   
 Let's connect and explore exciting opportunities together!
