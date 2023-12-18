@@ -1,12 +1,11 @@
 # Hello there, I'm Sebastian 👋 
 
-## About Me
+## 🚀 About Me
 
-📊 Passionate Product Manager based in Madrid. 
+- Passionate Product Manager based in Madrid. 
+- Thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
 
-🚀 Thrive on bringing innovative ideas to life and optimizing processes for better efficiency.
-
-## Skills
+## 📊 Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
